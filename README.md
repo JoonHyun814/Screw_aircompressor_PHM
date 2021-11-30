@@ -45,6 +45,7 @@
           <p>
             평균과 공분산을 활용한 공식을 사용하며 loss가 어떻게 분포되어있는지에도 영향을 받습니다. 사용하는 feature 수가 많은 수록 MAE보다 뛰어난 test 성능을 보여줍니다.
           </p>
+          <img src="https://user-images.githubusercontent.com/79820509/144009711-10d510f8-c7a9-40e4-8637-3420d78551b2.png" alt="" width="70%"><br>
         </ul>
     </ol>
   </body>
