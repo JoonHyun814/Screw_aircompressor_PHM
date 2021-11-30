@@ -13,7 +13,7 @@
             <p>
               무한한 시계열성을 가지고 있는 data를 모델에 input할 수 있도록 일정한 시계열 길이를 가지는 window 조각들로 나누어 줍니다.
             </p>
-
+          <img src="https://user-images.githubusercontent.com/79820509/143999032-fc1d8a26-81aa-45fc-918c-3b2d30737469.png" alt="" width="90%"><br>
         </ul>
       <h2><li>Auto encoder</li></h2>
         <p>
