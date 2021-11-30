@@ -23,10 +23,12 @@
             <p>
               encoding과 decoding을 모두 LSTM을 사용한 LSTM AE의 계략도 입니다.
             </p>
+          <img src="https://user-images.githubusercontent.com/79820509/143997924-aca3b90d-49aa-40c4-b005-c8568781ecd0.png" alt="" width="90%"><br>
           <li><h3>CNN_LSTM AE</h3></li>
             <p>
               encoding은 CNN으로, decoding은 LSTM을 사용한 CNN_LSTM AE의 계략도 입니다.
             </p>
+          <img src="https://user-images.githubusercontent.com/79820509/143997924-aca3b90d-49aa-40c4-b005-c8568781ecd0.png" alt="" width="90%"><br>
         </ul>
       <h2><li>Perfomance test with reconstruct error</li></h2>
         <ul>
