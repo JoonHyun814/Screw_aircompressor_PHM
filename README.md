@@ -13,6 +13,7 @@
             <p>
               무한한 시계열성을 가지고 있는 data를 모델에 input할 수 있도록 일정한 시계열 길이를 가지는 window 조각들로 나누어 줍니다.
             </p>
+
         </ul>
       <h2><li>Auto encoder</li></h2>
         <p>
@@ -26,9 +27,9 @@
           <img src="https://user-images.githubusercontent.com/79820509/143997924-aca3b90d-49aa-40c4-b005-c8568781ecd0.png" alt="" width="90%"><br>
           <li><h3>CNN_LSTM AE</h3></li>
             <p>
-              encoding은 CNN으로, decoding은 LSTM을 사용한 CNN_LSTM AE의 계략도 입니다.
+              CNN_LSTM AE는 encoding은 CNN으로, decoding은 LSTM을 사용합니다. 아래는 CNN encoder의 계략도 입니다.
             </p>
-          <img src="https://user-images.githubusercontent.com/79820509/143997924-aca3b90d-49aa-40c4-b005-c8568781ecd0.png" alt="" width="90%"><br>
+          <img src="https://user-images.githubusercontent.com/79820509/143998308-a3cc70b7-0adf-4906-835a-9b6adebb8e8d.png" alt="" width="90%"><br>
         </ul>
       <h2><li>Perfomance test with reconstruct error</li></h2>
         <ul>
