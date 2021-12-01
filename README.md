@@ -1,1 +1,1 @@
-<a href = 'https://github.com/junhyun814/screw-air-compressor-PHM/index.html'>github.com/junhyun814/screw-air-compressor-PHM/index.html</a>
+<a href = 'https://junhyun814.github.io/screw-air-compressor-PHM/'>프로젝트 설명 web</a>
