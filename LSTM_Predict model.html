@@ -8,13 +8,33 @@
   <body>
     <h1><a href="index.html">Screw air compressor PHM</a></h1>
     <div id="grid">
+    <div></div>
     <div><ul id="subtitle"><h2>
       <li class='ST_element'><a href="Autoencoder.html">Auto encoder</a></li>
-      <li class='ST_element'><a href="LSTM_Predict model.html">LSTM_Predict model</a></li>
+      <li class='ST_element'><a href="LSTM_Predict model.html" id = "activate">LSTM_Predict model</a></li>
     </h2></ul></div>
-    <div id = 'article'><p>
-      수정중...
-    </p></div>
+    <div id = 'article'><ol>
+      <h2><li>Introduction</li></h2>
+        <ul>
+          <li><h3>PHM에 대한 개인적인 고찰</h3></li>
+            <p>
+              사람은 어떻게 PHM을 하는 지 고민해본 결과, 다음과 같이 3가지 유형으로 이상을 탐지한다고 생각합니다.
+              <ol>
+                <li>고통을 느낀다.</li>
+                <li>물체를 보고 기존의 형태와 다를 시 이상을 느낀다.</li>
+                <li>어떤 물체에 힘을 가했을 때 자신의 예상과 다르면 이상을 느낀다.</li>
+              </ol>
+              <br>이것을 기계에 대입을 해보면, 1번은 단순히 센서의 값이 지정된 범위를 초과 했을 때 이상을 감지하도록 설계를 하면 구현이 가능하고,
+              2번의 경우가 Autoencoder와 비슷한 기능을 하는 것 같습니다. 마지막으로 3번을 구현하기 위해서 LSTM_Predict model을 생각해 보았습니다.<br><br>
+            </p>
+          <li><h3>기본원리</h3></li>
+            <p>
+              model의 input으로 기존 상태량과 전류값을 넣었을 때 output으로 다음 상태량을 예측하는 모델입니다.<br><br><br>
+            </p>
+        </ul>
+      <h2><li>Data preprocessing</li></h2>
+    </ol></div>
+    <div></div>
     </div>
   </body>
 </html>
