@@ -30,5 +30,6 @@ body{
   grid-template-columns: 300px 1fr;
 }
 #article{
-  border-left: 1px solid gray
+  border-left: 1px solid gray;
+  padding: 30px;
 }
